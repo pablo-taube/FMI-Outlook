@@ -5,7 +5,7 @@ import io
 
 # Configuração da página do Streamlit
 st.set_page_config(
-    page_page_title="Visualizador SDMX - FMI (WEO)",
+    page_title="Visualizador SDMX - FMI (WEO)",
     page_icon="📊",
     layout="wide"
 )
