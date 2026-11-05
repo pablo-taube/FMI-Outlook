@@ -1,4 +1,12 @@
 streamlit
+altair
+gspread
 pandas
+xlsxwriter
+xmltodict
+numpy
 openpyxl
-plotly
+xmltodict
+pdfminer.six
+python-docx
+xlrd
