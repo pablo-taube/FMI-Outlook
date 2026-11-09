@@ -308,10 +308,6 @@ def set_y_max(x):
 
 
 def largura_total(funcao, *args, **kwargs):
-    """Chama um elemento do Streamlit ocupando toda a largura, em qualquer versão.
-
-    Versões novas usam width="stretch"; versões antigas usam use_container_width=True.
-    """
     try:
         return funcao(*args, width="stretch", **kwargs)
     except TypeError:
