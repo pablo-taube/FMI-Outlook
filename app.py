@@ -1,20 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-DESEMPENHO DA INDÚSTRIA NO MUNDO — COMTRADE + PROJEÇÕES DO FMI  (arquivo único)
-
-Como executar
-    pip install -r requirements.txt     (conteúdo logo abaixo)
-    streamlit run app_desempenho_industria_mundo.py
-
-requirements.txt  (copie estas linhas para um arquivo com esse nome)
-    streamlit>=1.37
-    pandas>=2.2
-    numpy
-    altair>=5
-    pyarrow
-    xmltodict
-    xlsxwriter
-    openpyxl
+DESEMPENHO DA INDÚSTRIA NO MUNDO — COMTRADE + PROJEÇÕES DO FMI
 
 Estrutura deste arquivo
     1. Constantes, dicionário de países do FMI e formatos pt-BR
